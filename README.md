@@ -6,6 +6,8 @@
 
 ## Usage
 
+This is only to be used by me for studying purposes. A screenshot of the finished website is provided below.
+
 ![challenge-demo](week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
 
 ## License
