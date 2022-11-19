@@ -7,5 +7,5 @@
 ##Usage
 
 ```md
-    ![challenge-demo](/Users/studyAccount/Desktop/bootcamp-challenges/challenge-week1/week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
+    ![challenge-demo](week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
 ```
