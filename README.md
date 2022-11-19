@@ -1,1 +1,11 @@
-# challenge-week1
+# Code Refractor - Module 1 Challenge
+
+##Description
+
+- This is code that I have refactored to include improve this document from its original form adding changes to both html and css.
+
+##Usage
+
+```md
+    ![challenge-demo](/Users/studyAccount/Desktop/bootcamp-challenges/challenge-week1/week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
+```
