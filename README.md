@@ -6,6 +6,5 @@
 
 ##Usage
 
-```md
-    ![challenge-demo](week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
-```
+md
+![challenge-demo](week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
