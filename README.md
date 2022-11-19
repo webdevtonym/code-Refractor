@@ -2,7 +2,7 @@
 
 ## Description
 
-- This is code that I have refactored to include improve this document from its original form adding changes to both html and css.
+- This is code that I have refactored to improve this document from its original form by adding changes to both html and css.
 
 ## Usage
 
