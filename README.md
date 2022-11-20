@@ -9,7 +9,7 @@
 - This is only to be used by me for studying purposes.
 - A mock-up screenshot of the finished website is provided below.
 
-![challenge-demo](challenge-week1/assets/images/01-html-css-git-challenge-demo.png)
+![challenge-demo](assets/images/01-html-css-git-challenge-demo.png)
 
 ## License
 
