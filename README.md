@@ -4,13 +4,12 @@
 
 - This is code that I have refactored to include improve this document from its original form by adding changes to both html and css.
 
-
 ## Usage
 
-- This is only to be used by me for studying purposes. 
+- This is only to be used by me for studying purposes.
 - A mock-up screenshot of the finished website is provided below.
 
-![challenge-demo](week-1/challenge/Assets/01-html-css-git-challenge-demo.png)
+![challenge-demo](challenge-week1/assets/images/01-html-css-git-challenge-demo.png)
 
 ## License
 
