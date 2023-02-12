@@ -11,7 +11,7 @@
 
 ![challenge-demo](assets/images/01-html-css-git-challenge-demo.png)
 
-Link to application: https://webdevtonym.github.io/challenge-week1/
+Link to application: https://webdevtonym.github.io/code-Refractor/
 
 ## License
 
