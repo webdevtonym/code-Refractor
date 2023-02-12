@@ -1,4 +1,4 @@
-# Code Refractor - Module 1 Challenge
+# Code Refractor
 
 ## Description
 
